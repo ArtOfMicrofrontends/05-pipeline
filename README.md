@@ -1,4 +1,36 @@
-# Steps
+# Chapter 05
+
+## Prerequisites
+
+The following software is required to run the sample:
+
+- Git
+- Node.js
+- NPM
+
+## Running
+
+Clone the repository:
+
+```sh
+git clone https://github.com/ArtOfMicrofrontends/05-pipeline.git
+```
+
+Go to the repository's directory and run NPM install:
+
+```sh
+npm install
+```
+
+Now start the application:
+
+```sh
+npm start
+```
+
+## Steps
+
+Follow these steps to implement the same from scratch.
 
 1. Initialize the repository:
 
